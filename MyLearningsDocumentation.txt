@@ -1,0 +1,190 @@
+
+API Key S :=== sk_dip8c9aa_dYcoC6k9Npgom3bSldLsvl1A
+Aug 3:
+
+	explored 
+	inputs.serp.devkalgudi.com and outputs.serp.devkalgudicom and understood what we do 
+
+Aug 4 :
+	explored the features of inputs and output applications
+	Revised some of the HTML concepts
+	understood what is Angular and TypeScript 
+Aug 5 :
+	Learning TypeScript
+	1. Introduction to TypeScript
+		What is TypeScript?
+		Why TypeScript?
+		TypeScript vs JavaScript
+		Compilation (.ts → .js)
+	2. Variables
+		let
+		const
+		Variable declaration
+		Variable initialization
+	3. Data Types
+		string
+		number
+		boolean
+		any
+		unknown
+		null
+		undefined
+		void
+		never (Introduction)
+	4. Arrays
+		Number arrays
+		String arrays
+		Boolean arrays
+		Mixed arrays
+		Array methods (basic)
+	5. Tuples
+		Tuple syntax
+		Fixed-length arrays
+		Practical examples
+	6. Enums
+		Numeric enums
+		String enums
+		Real-world usage
+	7. Functions
+		Function declaration
+		Parameters
+		Return types
+		void
+		Optional parameters (?)
+		Default parameters
+		Arrow functions (=>)
+	8. Objects
+		Object creation
+		Object typing
+		Accessing properties
+		Updating properties
+		Dot notation
+		Bracket notation
+		Array of objects
+	9. Classes
+		Creating classes
+		Creating objects
+		Properties
+		Methods
+		new keyword
+		Multiple objects
+	10. Constructors
+		Constructor syntax
+		Automatic execution
+		this keyword
+		Parameter passing
+		Constructor shortcut (Introduction)
+	11. Access Modifiers
+		public
+		private
+		protected
+		Parameter properties
+		TypeScript private vs JavaScript private
+	12. Inheritance
+		extends
+		Parent class
+		Child class
+		super()
+		Method overriding
+		protected in inheritance
+	13. Interfaces
+		Interface syntax
+		Object typing
+		Interface vs Class
+		Why interfaces exist
+		Real-world examples
+	14. Implementing Interfaces
+		implements
+		Implementing properties
+		Implementing methods
+		Interface rules
+		Angular OnInit example
+	15. Interface Inheritance
+		Interface extends
+		Multiple interface inheritance
+		Interface + Class
+		Real-world examples	
+		
+Aug -6
+
+	16. Type Aliases
+	17. Union Types
+	18. Literal Types 
+	19. Optional Properties 
+	20. Optional Chaining
+	21. Nullish Coalescing (??)
+	22. Generics<T>
+	23. export and import 
+	
+   Introduction to Angular 
+   Node Js installation
+   Angular CLI installation 
+   How to create a Angular Project
+   Understood the folders and files in the setup angular Project 
+   Understood Bootstrapping 
+   
+Aug -7 
+   
+   understood the RFQ flow in inputs
+   Started Introduction to NodeJs
+   
+Aug 8 , 9 WeekOf
+   
+Aug 10
+  started learning nodejs modules
+   
+Aug 11 :
+  Learnt node js built in modules
+   
+Aug 12 
+ Learnt jsonb , functions , operators.
+ 
+ Aug 13 : 
+  Completed a Task of creating a data object and from level3ProductList retrieved each products level3Id,from createdBy object retieving the profileKey and FirstName.
+  Explored Component and view Template in Angular JS
+  
+  
+Aug 14 :
+Explored Product creation in outputs and approval in admin login 
+completed styling , bootstrap , creating a component , types of components, data binding , string interpolation , property Binding concepts in Angular 
+
+
+Aug 17 :
+Explored RFQ , 
+Learnt some Node Concepts 
+Explored PostreSQL
+
+
+Aug 18:
+continued learning Postgres 
+
+
+Aug 19 :
+continued learning Postgres , started intro to indexing
+
+Aug 20 :
+Continued learning PostgresSql 
+
+Aug 21 :
+Sick Leave 
+
+Aug 22 , 23 week of
+
+Aug 24:
+Sub queries
+Window Functions
+Views
+Introduction to Procedures 
+
+
+Aug 25:
+Procedures 
+Indexes 
+
+Aug 26 :
+Completed Git and Git hub
+Started Learning Elastic Search 
+
+
+
+
