@@ -186,5 +186,6 @@ Completed Git and Git hub
 Started Learning Elastic Search 
 
 
-
-
+Aug 27 :
+Continued learning Elastic Search upto match_query 
+intro to S3
