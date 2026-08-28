@@ -189,3 +189,7 @@ Started Learning Elastic Search
 Aug 27 :
 Continued learning Elastic Search upto match_query 
 intro to S3
+
+Aug 28:
+continued Learning ES : upto aggregations
+
