@@ -193,3 +193,13 @@ intro to S3
 Aug 28:
 continued Learning ES : upto aggregations
 
+
+Aug 29 : Aug 30 holiday 
+
+
+Aug 31 :
+understood the code for level2product
+
+Sep 1:
+and understood the flow of l2 and sku deletion
+understood how to how to delete multiple l2 
