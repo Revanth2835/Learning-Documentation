@@ -203,3 +203,7 @@ understood the code for level2product
 Sep 1:
 and understood the flow of l2 and sku deletion
 understood how to how to delete multiple l2 
+
+
+Sep 2 :
+Revised some oops Concepts for better understanding of the backend code .
